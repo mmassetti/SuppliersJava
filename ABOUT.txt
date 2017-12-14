@@ -1,0 +1,20 @@
+1) From "SuperProveedores.jar" you can execute the application
+
+2) Three external libraries are used:
+- commnos-lang3-3.5.jar : To check input values from the user
+- jdom-2.0.6.jar: To work with XML files
+- jcalendar-1.4 : To work with the calendar 
+
+In Eclipse (if used) these libraries have to be added, going to Build Path -> Add External Jar.
+
+3) If Eclipse is used, the main method is in the class VentanAcceso.java. From there you can execute the app.
+
+4) I decided to work with XML files for the storage.
+
+
+Author: Matias Massetti
+Contact: matiasmassetti@gmail.com
+
+February 2017
+
+

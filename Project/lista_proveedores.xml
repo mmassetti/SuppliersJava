@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<proveedores>
+  <proveedor>
+    <nombre>Coca Cola</nombre>
+    <cuit>11111</cuit>
+    <fechaInicioContrato>11/06/1987</fechaInicioContrato>
+    <productos>
+      <producto>
+        <nombre>Chica</nombre>
+        <precioUnitario>20.0</precioUnitario>
+      </producto>
+    </productos>
+  </proveedor>
+</proveedores>

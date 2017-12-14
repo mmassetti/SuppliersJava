@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entregas>
+  <proveedor>
+    <nombre>Coca Cola</nombre>
+    <fechaOperacion>12/10/2017</fechaOperacion>
+    <productos>
+      <producto>
+        <nombre>Chica</nombre>
+        <precioUnitario>20.0</precioUnitario>
+        <cantidad>80</cantidad>
+        <subtotal>1600.0</subtotal>
+      </producto>
+    </productos>
+    <total>1600.0</total>
+  </proveedor>
+</entregas>

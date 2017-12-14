@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+  <usuario>
+    <nombre>Matias</nombre>
+    <clave>1234</clave>
+  </usuario>
+  <usuario>
+    <nombre>4</nombre>
+    <clave />
+  </usuario>
+</usuarios>
